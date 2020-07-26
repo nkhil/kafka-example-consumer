@@ -1,4 +1,4 @@
-## Kafka example producer
+## Kafka example consumer
 
 
 

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm test",
-    "develop": "nodemon index.js",
+    "develop": "nodemon src/consumer.js",
     "start": "node index.js"
   },
   "author": "Nikhil Vijayan",

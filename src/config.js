@@ -7,5 +7,6 @@ module.exports = {
   port: 8080,
   kafka: {
     kafka_server: 'localhost:2181',
+    kafka_topic: 'TRANSACTIONS',
   }
 };
